@@ -13,8 +13,8 @@
 # limitations under the License.
 
 homepage: "https://www.comprend.com"
-documentation: "https://github.com/comprend-gtm-templates/<REPLACE WITH REPOSITORY NAME>"
+documentation: "https://github.com/comprend-gtm-templates/microsoft-monetize"
 versions:
-  - sha: <REPLACE WITH COMMIT SHA>
+  - sha: 54b8c1ee6cfe23fec4cb5604ad9157af81295c4a
     changeNotes: |-
       Initial release
