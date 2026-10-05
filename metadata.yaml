@@ -15,6 +15,9 @@
 homepage: "https://www.comprend.com"
 documentation: "https://github.com/comprend-gtm-templates/microsoft-monetize"
 versions:
+  - sha: 0eb2e8255a424dbe63dd2282186ff1716eefb0c7
+    changeNotes: |-
+      Update template image
   - sha: 54b8c1ee6cfe23fec4cb5604ad9157af81295c4a
     changeNotes: |-
       Initial release
